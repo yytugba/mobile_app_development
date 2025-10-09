@@ -31,4 +31,7 @@ public class Post {
     public void setImage(Bitmap image) {
         this.image = image;
     }
+
+    public void setMesage(String msg) {
+    }
 }
